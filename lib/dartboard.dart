@@ -1,4 +1,4 @@
-library dart_commons;
+library dartboard;
 
 export 'src/iterables.dart';
 

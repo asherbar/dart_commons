@@ -22,3 +22,4 @@ doc/api/
 
 # idea files
 .idea
+/dartboard.iml

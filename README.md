@@ -5,7 +5,7 @@ A collection of boilerplate snippets in Dart.
 A simple usage example:
 
 ```dart
-import 'package:dart_commons/dart_commons.dart';
+import 'package:dartboard/dartboard.dart';
 
 main() {
   var randomItem = Iterables.randomItem([1, 2, 3]);
